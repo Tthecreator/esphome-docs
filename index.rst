@@ -336,6 +336,7 @@ Air Quality
     SCD4X, components/sensor/scd4x, scd4x.jpg, CO2 & Temperature & Humidity
     SDS011 Sensor, components/sensor/sds011, sds011.jpg, Particulate
     SEN0321, components/sensor/sen0321, sen0321.jpg, Ozone
+    SC01_O3, components/sensor/sc01_o3, sc01_o3.jpg, Ozone
     SEN5x, components/sensor/sen5x, sen54.jpg, Temperature & Humidity & Volatile organics & NOx
     SenseAir, components/sensor/senseair, senseair_s8.jpg, CO2
     SFA30, components/sensor/sfa30, sfa30.jpg, Formaldehyde

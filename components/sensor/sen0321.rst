@@ -46,4 +46,5 @@ See Also
 - :ref:`sensor-filters`
 - :apiref:`sen0321/sen0321.h`
 - `DFRobot SEN0321 Library <https://github.com/DFRobot/DFRobot_OzoneSensor/>`__ by `DFRobot <https://www.dfrobot.com/>`__
+- `UART based S01_O3 Sensor <sc01_o3.html>`__
 - :ghedit:`Edit`
